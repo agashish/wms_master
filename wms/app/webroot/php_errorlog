@@ -1,0 +1,78 @@
+[19-May-2015 04:50:51 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[19-May-2015 04:51:02 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[22-May-2015 04:58:00 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 04:58:16 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:02:23 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:02:56 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:03:41 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:04:30 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 06:53:25 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[22-May-2015 06:53:53 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[25-May-2015 04:54:26 CST6CDT] PHP Warning:  Unterminated comment starting line 266 in /home/lovevit8/public_html/wms/app/Config/core.php on line 266
+[25-May-2015 05:23:47 CST6CDT] PHP Fatal error:  Call to undefined method WarehousesController::unbindModel() in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 188
+[25-May-2015 05:28:23 CST6CDT] PHP Fatal error:  Call to a member function unbindModel() on a non-object in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 188
+[25-May-2015 07:24:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:47:42 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:48:11 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:48:38 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[26-May-2015 00:05:00 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 00:07:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 00:08:33 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 01:39:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 46
+[26-May-2015 05:06:33 CST6CDT] PHP Fatal error:  Call to a member function setflash() on a non-object in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 89
+[26-May-2015 05:18:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 54
+[26-May-2015 06:52:20 CST6CDT] PHP Fatal error:  Call to undefined function showallwarehouse() in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 215
+[03-Jun-2015 23:47:17 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 36
+[03-Jun-2015 23:50:22 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 36
+[18-Jun-2015 06:03:24 CST6CDT] PHP Fatal error:  Class 'WarehouseLevel' not found in /home/lovevit8/public_html/wms/lib/Cake/View/Helper/CommonHelper.php on line 112
+[22-Jun-2015 23:35:27 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:22 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:23 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:25 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:26 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:38:49 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:12 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:23 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:28 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:33 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:48:58 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:49:01 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:49:11 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[23-Jun-2015 01:00:05 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[23-Jun-2015 01:23:47 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:05 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:08 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:41 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[25-Jun-2015 05:02:02 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:10 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:27 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:37 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[26-Jun-2015 02:33:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:12 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:15 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:36:35 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:23 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:28 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:31 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:40 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:49 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 03:00:16 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[26-Jun-2015 03:00:21 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[26-Jun-2015 03:00:21 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[01-Jul-2015 02:59:55 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 02:59:58 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:00:05 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:01:06 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:01:46 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[03-Jul-2015 01:49:39 CST6CDT] PHP Parse error:  syntax error, unexpected ''core'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/lovevit8/public_html/wms/app/View/Layouts/index.ctp on line 52
+[13-Jul-2015 06:49:59 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/lovevit8/public_html/wms/lib/Cake/View/Helper/CommonHelper.php on line 191
+[13-Jul-2015 06:51:55 CST6CDT] PHP Fatal error:  Call to undefined method CommonComponent::getCategoryList() in /home/lovevit8/public_html/wms/app/Controller/CategoriesController.php on line 296
+[16-Jul-2015 07:54:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/BrandsController.php on line 375
+[12-Aug-2015 04:20:55 CST6CDT] PHP Fatal error:  Class 'PHPExcel' not found in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 96
+[12-Aug-2015 06:36:29 CST6CDT] PHP Fatal error:  Call to a member function currency() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 147
+[21-Aug-2015 00:10:07 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:12 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:17 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:25 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
